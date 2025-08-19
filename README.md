@@ -100,7 +100,6 @@ This will launch the app in your default web browser.
 ## Troubleshooting
 
 - **Model Not Found:** Ensure `model/best.pt` exists.
-- **CUDA/Hardware Issues:** If you have a GPU, ensure CUDA is properly installed for faster inference.
 - **Dependency Issues:** Double-check your Python version and installed packages.
 
 ---
