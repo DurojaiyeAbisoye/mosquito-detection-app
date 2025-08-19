@@ -3,3 +3,11 @@
 __pycache__/
 .venv/
 *.env
+images
+videos
+*.mp4
+*.jpg
+output
+runs
+nb.ipynb
+*.ipynb_checkpoints
