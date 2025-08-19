@@ -40,7 +40,7 @@ This project is a web-based application for detecting and counting mosquitoes in
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/mosquito-detection-app.git
+git clone https://github.com/DurojaiyeAbisoye/mosquito-detection-app.git
 cd mosquito-detection-app
 ```
 
